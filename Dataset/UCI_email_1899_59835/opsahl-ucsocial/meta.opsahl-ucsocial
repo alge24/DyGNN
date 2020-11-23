@@ -1,0 +1,18 @@
+category: Communication
+code: UC
+name: UC Irvine messages
+description: User–user message
+entity-names: user,user
+extr: opsahl
+url: http://toreopsahl.com/datasets/#online_social_network
+long-description: This directed network contains sent messages between the users of an online community of students from the University of California, Irvine. A node represents a user. A directed edge represents a sent message. Multiple edges denote multiple messages. 
+relationship-names: message
+cite: konect:opsahl09
+n3-prefix-m: konect_opsahl_ucsocial_user: <http://konect.uni-koblenz.de/networks/opsahl-ucsocial/User/> .
+n3-type-m: foaf:OnlineAccount
+n3-prefix-l: konect_opsahl_ucsocial_message: <http://konect.uni-koblenz.de/networks/opsahl-ucsocial/Message/> .
+n3-add-prefix-1: nmo: <http://www.semanticdesktop.org/ontologies/2007/03/22/nmo#> .
+n3-type-l: nmo:Message
+n3-edgedata-1: $l nmo:from $m .
+n3-edgedata-2: $l nmo:to $n .
+n3-edgedata-3: $l nmo:sentDate $timestamp .

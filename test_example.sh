@@ -1,0 +1,1 @@
+python link_prediction_with_emb.py -m saved_models/UCI/nt_0_wd_0.001_up_0_w_2.0_b_200_l_0.001_tr_0.8_nn_1_tanh_trans_1_dr_p_0_prop_1_att_1_rp_1_dcm_log_nor_0/model_after_epoch_3.pt -trans 1 -ia 1 -skip 1

@@ -1,0 +1,40 @@
+epoch: 0
+head_rank mean: 356.7944550669216 ; head_rank var: 195671.37314324986
+tail_rank mean: 378.70841300191205 ; tail_rank var: 221253.12960417362
+head_rank HITS 100: 160
+tail_rank_HITS 100: 203
+head_rank HITS 50: 104
+tail_rank_HITS 50: 97
+head_rank HITS 20: 36
+tail_rank_HITS 20: 26
+============================================================================
+epoch: 1
+head_rank mean: 261.76481835564056 ; head_rank var: 156780.81371445075
+tail_rank mean: 293.3843212237094 ; tail_rank var: 170147.43260312435
+head_rank HITS 100: 256
+tail_rank_HITS 100: 235
+head_rank HITS 50: 159
+tail_rank_HITS 50: 168
+head_rank HITS 20: 71
+tail_rank_HITS 20: 21
+============================================================================
+epoch: 2
+head_rank mean: 263.4569789674952 ; head_rank var: 158319.58180119842
+tail_rank mean: 293.50095602294454 ; tail_rank var: 190321.20506600762
+head_rank HITS 100: 237
+tail_rank_HITS 100: 204
+head_rank HITS 50: 116
+tail_rank_HITS 50: 117
+head_rank HITS 20: 34
+tail_rank_HITS 20: 41
+============================================================================
+epoch: 3
+head_rank mean: 293.1864244741874 ; head_rank var: 149469.69230136476
+tail_rank mean: 313.00478011472273 ; tail_rank var: 179695.6792314526
+head_rank HITS 100: 220
+tail_rank_HITS 100: 224
+head_rank HITS 50: 113
+tail_rank_HITS 50: 106
+head_rank HITS 20: 23
+tail_rank_HITS 20: 30
+============================================================================
